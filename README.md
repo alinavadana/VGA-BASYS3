@@ -15,3 +15,8 @@
 
 - The **top module** connects the clock generator, game logic (`vgaf`), and score display (`score`) together.
 
+---
+# Demo
+https://github.com/user-attachments/assets/eade2379-fb32-4534-bb69-e021a76a157f
+
+
